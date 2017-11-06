@@ -1,0 +1,161 @@
+body {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font: 12px Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #061C37;
+	background: #1c478e;
+	background-image:url(../imagenes/background.png);
+	background-repeat:repeat-x;
+}
+*{
+	margin: 0 auto 0 auto;
+	text-align:left;
+}
+h2{
+	font-size:25px;
+	font-weight:bold;
+	padding:10px 0 10px 0;
+	color:White;
+	text-align:left;
+}
+
+p{
+	margin:20px 0 10px 0;
+	text-align:justify;
+	color: White;
+
+	
+}
+h6{
+	padding: 10px;
+	color:white;
+	font-size: 12px;
+	text-align:left;
+}
+footer{
+	margin-top:100px;
+	margin-left: : 1000px;
+	width: 1150px;
+	height: 100px;
+	background: black;
+	color:white;
+	float:left;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-top-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	margin-bottom: 30px;
+}
+#header h2{
+	float:right;
+	padding:40px 20px 0 0;
+	text-align:right;
+	color:#A9D1FA;
+	width:400px;
+}
+#container{
+	width: 1150px;
+	
+}
+#header{
+	height:85px;
+	width:960px;	
+}
+
+#header h1{
+    float:center;
+    padding:20px 0 0 20px;
+	text-align:left;
+	color: ;
+	font-size:43px;
+	color:#FFF;	
+
+}
+#menu{
+
+	display:block;
+	float:left;
+	clear:both;
+	width:960px;
+	height:44px;
+	float:left;
+	clear:both;
+}
+ul, ol {
+
+	list-style: none;
+}
+.nav  li a{
+
+	padding: 0px;	
+    list-style: none;
+    font-size: 15px;
+	display: block;
+	text-align: left;
+	text-decoration: none;
+	color: #ffffff;
+	font-weight: bold;
+	padding-top: 18px;
+	padding-left:13px;
+	padding-right:13px;
+}
+.nav li a:hover{
+
+	color: #86AEF9;
+}
+.nav  > li {
+
+	float:left;
+	list-style: none;
+	padding: 0px;
+}
+.nav li ul{
+	list-style: none;
+	display:none;
+	position: absolute;
+	padding: 0px;
+	margin-left:auto;
+}
+.nav li:hover > ul{
+
+	display:block; 
+}
+.blue-text{
+	color:#67A0F5;
+}
+.white-text{
+	color:#fff;
+}
+#Division1{
+	margin: 210px;
+	border-color: #fff;
+	border-radius: 24px;
+	width: 800px;
+	height:950;
+	background: #1C478E;
+	padding:75px;
+	border:6px solid #1C478E;
+	text-align:left;
+
+}
+#Division1 ul li {
+	color:white;
+}
+#FotoHernan, #FotoGabriel, #IMG_1313{
+	float: right;
+	box-shadow: 10px 10px 5px #888888;
+	display: inline;
+}
+#footer{
+  
+	padding: 20px;
+	font-size: 14px;
+	text-decoration: bold;
+}
+#footer img.float{
+	float:right;
+	margin:5px;
+}
+
